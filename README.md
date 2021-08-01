@@ -16,6 +16,8 @@
 
 そんな時ネットでアドバイスから購入までできたらいいと思いました。
 
+![fas-site work_about](https://user-images.githubusercontent.com/62799261/127780114-9fbd7979-69d0-4368-9d21-75cdf774a335.png)
+
 ### ターゲットユーザ
 全般（主な利用シーンに該当する人）
 
