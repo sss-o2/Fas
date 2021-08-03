@@ -45,6 +45,23 @@
 | レスポンシブ対応 |
 | お問い合わせメール（自動返信あり） |
 
+## 使用技術
+* フロントエンド
+    * jQuery 3.5.1
+    * HTML / SCSS / Bootstrap
+* バックエンド
+    * Ruby 2.7.1
+    * Ruby on Rails 6.0.3
+    * Google MapAPI
+* インフラ
+    * Docker 19.03.12/ docker-compose 1.26.2
+    * postgres 12.3
+    * AWS (VPC,EC2,S3,RDS,Route53,EIP,IAM)
+* その他使用ツール
+    * Visual Studio Code
+    * draw.io
+    * Google spread sheet
+
 https://docs.google.com/spreadsheets/d/1ofhM5Ej0iVO3qqpLx2xMshZ5OiNPYQM8KfqVKo925uE/edit?usp=sharing
 
 ### サイトURL
