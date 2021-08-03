@@ -48,6 +48,8 @@ https://fas-site.work/
 | レスポンシブ対応 |
 | お問い合わせメール（自動返信あり） |
 
+![B11D6D62-8C7B-45C1-9A62-796A2D0D65B5_1_105_c](https://user-images.githubusercontent.com/62799261/128077059-f4b5a83d-3fc2-422d-b602-967a1f5ef266.jpeg)
+
 ## 使用技術
 * フロントエンド
     * jQuery 3.5.1
