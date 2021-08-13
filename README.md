@@ -17,7 +17,7 @@ https://fas-site.work/
 - 服を店員さんに選んでもらいたいが、おしゃれなお店に入りづらい
 - 自粛でお店が閉まっていて、店員さんにアドバイスがもらえない
 
-そんな時ネットでアドバイスから購入までできたらいいと思いました。
+そんな時**ネットでアドバイスから購入**までできたらいいと思いました。
 
 ![fas-site work_about](https://user-images.githubusercontent.com/62799261/127780114-9fbd7979-69d0-4368-9d21-75cdf774a335.png)
 
@@ -48,11 +48,16 @@ https://fas-site.work/
 | レスポンシブ対応 |
 | お問い合わせメール（自動返信あり） |
 
+- 投稿詳細ページ
 ![fas-site work_posts_20](https://user-images.githubusercontent.com/62799261/128077540-19d57074-dc36-4caf-b622-a7c02c977c5f.png)
 
+- プロフィールページ（店舗マップ有り）
 ![fas-site work_users_19_profile](https://user-images.githubusercontent.com/62799261/128078152-e9c48b23-1375-4f1d-98a0-47bd8c33539a.png)
 
+- 管理画面
 ![B11D6D62-8C7B-45C1-9A62-796A2D0D65B5_1_105_c](https://user-images.githubusercontent.com/62799261/128077059-f4b5a83d-3fc2-422d-b602-967a1f5ef266.jpeg)
+
+- レスポンシブ対応
 
 ![242CBE3D-E31D-44B9-85FD-CC8AD8014FB5_4_5005_c](https://user-images.githubusercontent.com/62799261/128885489-49a73fd6-4bda-405e-9d26-6173077b2597.jpeg)
 
