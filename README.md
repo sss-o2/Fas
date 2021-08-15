@@ -58,8 +58,9 @@ https://fas-site.work/
 ![B11D6D62-8C7B-45C1-9A62-796A2D0D65B5_1_105_c](https://user-images.githubusercontent.com/62799261/128077059-f4b5a83d-3fc2-422d-b602-967a1f5ef266.jpeg)
 
 - レスポンシブ対応
-
-![242CBE3D-E31D-44B9-85FD-CC8AD8014FB5_4_5005_c](https://user-images.githubusercontent.com/62799261/128885489-49a73fd6-4bda-405e-9d26-6173077b2597.jpeg)
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/62799261/128885489-49a73fd6-4bda-405e-9d26-6173077b2597.jpeg" alt="スマホ画面">
+</div>
 
 ## 使用技術
 * フロントエンド
